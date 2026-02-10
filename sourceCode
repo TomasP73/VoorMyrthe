@@ -342,15 +342,15 @@
         
         // Placeholder foto's - vervang deze door echte foto URLs
         const photoUrls = [
-            '', // Foto 1 - vervang door jouw foto URL
-            '', // Foto 2 - andere foto
-            '', // Foto 3 - vervang door jouw foto URL
-            '', // Foto 4 - andere foto
-            '', // Foto 5 - andere foto
-            '', // Foto 6 - vervang door jouw foto URL
-            '', // Foto 7 - andere foto
-            '', // Foto 8 - andere foto
-            ''  // Foto 9 - andere foto
+            'foto1', // Foto 1 - vervang door jouw foto URL
+            'foto2', // Foto 2 - andere foto
+            'foto3', // Foto 3 - vervang door jouw foto URL
+            'foto4', // Foto 4 - andere foto
+            'foto5', // Foto 5 - andere foto
+            'foto6', // Foto 6 - vervang door jouw foto URL
+            'foto7', // Foto 7 - andere foto
+            'foto8', // Foto 8 - andere foto
+            'foto9'  // Foto 9 - andere foto
         ];
 
         // CONFIGUREER HIER DE PRIJZEN VOOR ELKE COUPON
