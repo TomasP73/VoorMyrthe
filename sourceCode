@@ -338,19 +338,19 @@
     <script>
         // Configuratie voor de foto's
         // VERVANG DEZE URLS DOOR JE EIGEN FOTO'S
-        const correctPhotos = [0, 2, 5]; // Indices van foto's met jouw gezicht (0-8)
+        const correctPhotos = [0, 1, 2, 3, 4, 5, 6, 7, 8]; // Indices van foto's met jouw gezicht (0-8)
         
         // Placeholder foto's - vervang deze door echte foto URLs
         const photoUrls = [
-            '![Image](https://github.com/user-attachments/assets/d4c68ae6-b452-4145-bf52-6f213d61f5c3)', // Foto 1 
-            '![Image](https://github.com/user-attachments/assets/449d7108-7c7e-4c1b-a526-db3d26c22b3b)', // Foto 2 
-            '![Image](https://github.com/user-attachments/assets/39abb2a5-27ca-4e42-ad1e-243c42ba8f51)', // Foto 3
-            '![Image](https://github.com/user-attachments/assets/19835e6c-834b-4922-a44f-8fa13801f9bb)', // Foto 4 
-            '![Image](https://github.com/user-attachments/assets/57c319f3-b3fa-40cc-94d3-eb0d8faf7c14)', // Foto 5
-            '![Image](https://github.com/user-attachments/assets/424ea1c6-1231-4693-ad4d-e6bff029c5a7)', // Foto 6 
-            '![Image](https://github.com/user-attachments/assets/60f7b5d6-6e98-4bc3-ba7e-63c281eed960)', // Foto 7 
-            '![Image](https://github.com/user-attachments/assets/f8d45500-1c1b-4afa-a8ce-86b66a44807e)', // Foto 8 
-            '![Image](https://github.com/user-attachments/assets/35e8ea1d-9dcc-4739-acc5-912cf8640227)'  // Foto 9 
+            'foto1' 
+            'foto2' 
+            'foto3'
+            'foto4'
+            'foto5' // Foto 5 
+            'foto6' // Foto 6
+            'foto7' // Foto 7
+            'foto8' // Foto 8 
+            'foto9'  // Foto 9
         ];
 
         // CONFIGUREER HIER DE PRIJZEN VOOR ELKE COUPON
